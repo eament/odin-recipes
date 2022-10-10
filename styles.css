@@ -1,0 +1,95 @@
+.home-title {
+    width: 100%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-bottom: 2%;
+    text-align: center;
+    background-color: #f5f4f0;
+}
+
+.home-title h1 {
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    color: #3c524a;
+}
+
+.home-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    line-height: 2rem;
+    text-decoration: none;
+}
+
+.home-link ul li a {
+    text-decoration: none;
+    color: #6e9185;
+}
+
+.home-link ul {
+    list-style-type: none;
+}
+
+.recipe-title {
+    width: 100%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    text-align: center;
+    background-color: #3c524a;
+}
+
+.recipe-title h1 {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .4rem;
+    color: #f5f4f0; 
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+.recipe-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 500px;
+
+}
+
+.recipe-image img {
+    flex-shrink: 1;
+    min-width: 50%;
+    min-height: 50%;
+}
+
+.recipe h2 {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .4rem;
+    color: #3c524a; 
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.recipe p {
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+}
+
+.recipe {
+    padding: 50px 20%;
+}
+
+.recipe ul li {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+}
+
+.recipe ol li {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+}
+
